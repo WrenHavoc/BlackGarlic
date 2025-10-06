@@ -2,6 +2,8 @@
 A fast, easy, and secure way to access i2p.
 BlackGarlic intends to be an eqivalent to the Tor browser but for I2P. The hope is that it will increase usage of i2p, making the network faster, safer, and stronger as a whole.
 
+At it's current stage, I do not reccomend relying on BlackGarlic for anonimity. It's in the Alpha stage and has yet to be tested against adversaries in the wild.
+
 ## Goals
 * easy
     * an average user should be able to use it
