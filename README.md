@@ -18,5 +18,7 @@ BlackGarlic intends to be an eqivalent to the Tor browser but for I2P. The hope 
 ## Contact
 Questions? Concerns? Want to help with development? Contact me!
 You can email me using the clearnet or i2p. 
+
 clearnet(normal internet): [wrenb@i2pmail.org](mailto:wrenb@i2pmail.org)
+
 i2p: [wrenb@mail.i2p](mailto:wrenb@mail.i2p)
